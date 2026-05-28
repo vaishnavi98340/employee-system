@@ -1,0 +1,6 @@
+{
+  "name": "Campus EMS",
+  "description": "Online Employee Management System for colleges with role-based attendance tracking and leave management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
